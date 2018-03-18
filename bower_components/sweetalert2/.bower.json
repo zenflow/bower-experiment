@@ -1,0 +1,13 @@
+{
+  "name": "sweetalert2",
+  "_cacheHeaders": {
+    "ETag": "W/\"1968f-161f8b94d48\"",
+    "Last-Modified": "Tue, 06 Mar 2018 00:32:29 GMT",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:W/\"1968f-1",
+  "main": "index.js",
+  "_source": "https://unpkg.com/sweetalert2@7.x.x/dist/sweetalert2.all.js",
+  "_target": "*",
+  "_originalSource": "https://unpkg.com/sweetalert2@7.x.x/dist/sweetalert2.all.js"
+}

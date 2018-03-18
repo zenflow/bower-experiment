@@ -1,0 +1,12 @@
+{
+  "name": "bower-experiment",
+  "homepage": "https://github.com/zenflow/bower-experiment",
+  "authors": [
+    "Matthew Francis Brunetti <zenflow87@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "sweetalert2": "https://unpkg.com/sweetalert2@7.x.x/dist/sweetalert2.all.js"
+  }
+}
